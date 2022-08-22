@@ -1,0 +1,14 @@
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\bin\Debug\netcoreapp3.1\ObjectInfo.exe
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\bin\Debug\netcoreapp3.1\ObjectInfo.deps.json
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\bin\Debug\netcoreapp3.1\ObjectInfo.runtimeconfig.json
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\bin\Debug\netcoreapp3.1\ObjectInfo.runtimeconfig.dev.json
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\bin\Debug\netcoreapp3.1\ObjectInfo.dll
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\bin\Debug\netcoreapp3.1\ObjectInfo.pdb
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\obj\Debug\netcoreapp3.1\ObjectInfo.csproj.AssemblyReference.cache
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\obj\Debug\netcoreapp3.1\ObjectInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\obj\Debug\netcoreapp3.1\ObjectInfo.AssemblyInfoInputs.cache
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\obj\Debug\netcoreapp3.1\ObjectInfo.AssemblyInfo.cs
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\obj\Debug\netcoreapp3.1\ObjectInfo.csproj.CoreCompileInputs.cache
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\obj\Debug\netcoreapp3.1\ObjectInfo.dll
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\obj\Debug\netcoreapp3.1\ObjectInfo.pdb
+C:\Users\taqua\Desktop\RemotePJ\AHM_Management\ObjectInfo\obj\Debug\netcoreapp3.1\ObjectInfo.genruntimeconfig.cache
